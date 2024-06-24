@@ -37,4 +37,3 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahanhansaja026&theme=tokyonight" alt="mystreak"/>
 ![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahanhansaja026&theme=tokyonight&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahanhansaja026&" alt="sahanhansaja026" /></p>
