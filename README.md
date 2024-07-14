@@ -11,7 +11,7 @@
 - Back-End developer
 - Currently learning Web Development by Self
 - Personal website [link](https://sahan026.github.io/portfolio/)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://github.com/sahanHansaja026/sahanHansaja026/commit/99dc07836aee1ff602c4b49d866f48d3968e0f06)
 
 <br><br>
 
