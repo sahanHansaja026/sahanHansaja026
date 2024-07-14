@@ -7,7 +7,13 @@
 
 <br>
 
+- A passionate Self-taught Front-end developer
+- Back-End developer
+- Currently learning Web Development by Self
+- Personal website [link](https://sahan026.github.io/portfolio/)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
 
+<br><br>
 
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
