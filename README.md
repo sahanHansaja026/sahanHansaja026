@@ -1,4 +1,23 @@
-<h1 align="center">Hi 👋, I'm Madawala Maddumage Sahan Hansaja</h1>
+<h1 align="center"><b>Hi 👋, I'm Madawala Maddumage Sahan Hansaja </b></h1>
+<!--  -->A
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Wellcome..&hearts;++;Self-taught+Front-End+Developer,;Back-End-Developer,;Datar+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
+
+
+<br>
+
+
+
+	
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
+<br>
+
+
+
 <h3 align="center">Passionate about Data Science and Predictive Analytic from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sahanhansaja026&label=Profile%20views&color=0e75b6&style=flat" alt="sahanhansaja026" /> </p>
